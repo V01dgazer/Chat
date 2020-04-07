@@ -104,7 +104,7 @@ export class Server {
   }
 
   private configureRoutes() {
-    this.app.use("/room", routers.room);
+    this.app.use("/api/room", routers.room);
   }
 
   public getIO() {
