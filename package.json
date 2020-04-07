@@ -13,7 +13,6 @@
     "@types/socket.io": "^2.1.4",
     "@types/uuid": "^7.0.2",
     "nodemon": "^2.0.2",
-    "ts-node": "^8.8.1",
     "typescript": "^3.8.3"
   },
   "dependencies": {
@@ -21,6 +20,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "socket.io": "^2.3.0",
+    "ts-node": "^8.8.2",
     "uuid": "^7.0.3"
   }
 }
